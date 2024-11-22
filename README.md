@@ -1,5 +1,5 @@
 # SAP-ERP-Fraud-Data
-This repository provides additional information and data on the paper "Analyzing Data Sets for ML-driven Fraud Detection in SAP Systems" by Schnepf et al. (DOI: 10.1109/BigData59044.2023.10386379)
+This repository provides additional information and data on the paper "Analyzing Data Sets for ML-driven Fraud Detection in SAP Systems" by Schnepf et al. (doi: 10.1109/BigData59044.2023.10386379). The authors acknowledge the financial support by the Federal Ministry of Education and Research of Germany as part of the KOEX project (16KIS1582).
 
 The accounting data set (BKPF-BSEG), the change data set (CDHDR-CDPOS) and the trace data set contain synthetic data. The origin of the data sets are business processes and frauds that are executed using SAP IDES, which is a well-established model company used for training, teaching, demonstration, and evaluation. In the IDES client, realistic and practice-relevant business processes and frauds are executed. The thereby created records are extracted and then synthetically multiplied with the help of Python scripts. 
 
